@@ -1,0 +1,7 @@
+#!/bin/bash
+
+openssl genrsa -out test.key 2048
+openssl req -new -x509 -sha256 -key test.key -out test.crt -days 3650
+
+
+
