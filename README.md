@@ -1,2 +1,2 @@
 # tls_echo
-TSL echo client/server. server:golang client: c#
+TLS echo client/server. server:golang client: c#
